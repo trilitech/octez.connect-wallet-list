@@ -98,9 +98,7 @@
       "shortName": "Kukai",
       "color": "",
       "logo": "tezos_web-kukai.png",
-      "supportedInteractionStandards": [
-        "wallet_connect"
-      ],
+      "supportedInteractionStandards": ["wallet_connect"],
       "links": {
         "mainnet": "https://wallet.kukai.app",
         "ghostnet": "https://ghostnet.kukai.app",
@@ -210,9 +208,7 @@
       "name": "Trust Wallet",
       "shortName": "Trust Wallet",
       "color": "",
-      "supportedInteractionStandards": [
-        "wallet_connect"
-      ],
+      "supportedInteractionStandards": ["wallet_connect"],
       "logo": "tezos_ios-trust.png",
       "universalLink": "https://link.trustwallet.com",
       "deepLink": "trust://"
@@ -223,9 +219,7 @@
       "shortName": "Exodus",
       "color": "",
       "logo": "tezos_exodus.svg",
-      "supportedInteractionStandards": [
-        "beacon"
-      ],
+      "supportedInteractionStandards": ["beacon"],
       "deepLink": "exodus://wc",
       "universalLink": "https://www.exodus.com/"
     },
@@ -235,9 +229,7 @@
       "shortName": "Kukai",
       "color": "",
       "logo": "tezos_web-kukai.png",
-      "supportedInteractionStandards": [
-        "wallet_connect"
-      ],
+      "supportedInteractionStandards": ["wallet_connect"],
       "universalLink": "https://wallet.kukai.app",
       "deepLink": "kukai://"
     },
@@ -247,9 +239,7 @@
       "shortName": "Fireblocks",
       "color": "",
       "logo": "tezos_ios-fireblocks.svg",
-      "supportedInteractionStandards": [
-        "wallet_connect"
-      ],
+      "supportedInteractionStandards": ["wallet_connect"],
       "universalLink": ""
     },
     {
@@ -258,10 +248,7 @@
       "shortName": "Nightly",
       "color": "#6067F9",
       "logo": "tezos_ios-nightly.svg",
-      "supportedInteractionStandards": [
-        "wallet_connect",
-        "beacon"
-      ],
+      "supportedInteractionStandards": ["wallet_connect", "beacon"],
       "universalLink": "",
       "deepLink": "nightly://"
     }
