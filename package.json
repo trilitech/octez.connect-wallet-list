@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airgap-it/beacon-wallet-list.git"
+    "url": "git+https://github.com/trilitech/octez.connect-wallet-list.git"
   },
   "author": "AirGap",
   "license": "MIT",

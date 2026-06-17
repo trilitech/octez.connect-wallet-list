@@ -137,12 +137,12 @@ This script:
 
 **jsDelivr CDN (for runtime):**
 ```
-https://cdn.jsdelivr.net/gh/airgap-it/beacon-wallet-list@v1.0.0-latest/dist/tezos.json
+https://cdn.jsdelivr.net/gh/trilitech/octez.connect-wallet-list@latest/dist/tezos.json
 ```
 
 **GitHub Releases (for SDK bundling):**
 ```
-https://github.com/airgap-it/beacon-wallet-list/releases/latest/download/tezos.json
+https://github.com/trilitech/octez.connect-wallet-list/releases/latest/download/tezos.json
 ```
 
 ## Pre-commit Hook

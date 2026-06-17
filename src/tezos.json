@@ -81,7 +81,7 @@
       "supportedInteractionStandards": ["wallet_connect"],
       "links": {
         "mainnet": "https://wallet.kukai.app",
-        "shadownet": "https://shadownet.kukai.app",
+        "shadownet": "https://shadownet.kukai.app"
       }
     },
     {
@@ -91,7 +91,7 @@
       "color": "rgb(235, 52, 72)",
       "logo": "tezos_tzsafe.svg",
       "links": {
-        "mainnet": "https://tzsafe.marigold.dev",
+        "mainnet": "https://tzsafe.marigold.dev"
       }
     }
   ],
